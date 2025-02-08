@@ -1,5 +1,5 @@
-# [Project Name] 🎯
-TalkAble
+# DestINo 🎯
+
 
 ## Basic Details
 ### Team Name: InnovateHer
