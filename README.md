@@ -1,14 +1,14 @@
 # [Project Name] 🎯
-
+TalkAble
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: InnovateHer
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Ayisha Saniya- SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 2: Drushya Jolly - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 3: Gayathri Jayan - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
 
 ### Hosted Project Link
 [mention your project hosted project link here]
